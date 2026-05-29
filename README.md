@@ -1,22 +1,19 @@
-
-<p align="center">
- <img height="150px" src="https://holopin.me/ilyasa1211" alt="An image of @ilyasa1211's Holopin badges, which is a link to view their full Holopin profile"/>
-</p>
-
 # Hi, there! 
 
-I've a lot of experience as a Backend Engineer, but I'd like to call myself a Game Developer
+C++ Enjoyer right here! Woohoo! I like to eat `dumped core` as a breakfast!
 
-I like: 
+So, so, I like: 
 
 - Machine Learning
 - Physics
 - Backend Stuff, and
 - 🖌️ Drawing
 
+Well, it's not like I'm good at any of those, it just means I like it, and I try to learn those things.
+
 ## Games 🕹️
 
-Wanna play some games? Check out some games that I have made.
+Hey! Wanna play some games? Check out some games that I have made (long time ago, and I have lost motivation to develop them lol! just left it as is for now).
 
 | Game                   | Play                                                       | Source Code                                                  |
 | ---------------------- | ---------------------------------------------------------- | ------------------------------------------------------------ |
