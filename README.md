@@ -1,7 +1,5 @@
 # Hi, there! 
 
-C++ Enjoyer right here! Woohoo! I like to eat `dumped core` as a breakfast!
-
 So, so, I like: 
 
 - Machine Learning
