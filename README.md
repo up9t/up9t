@@ -1,6 +1,8 @@
 # Hi, there! 
 
-So, so, I like: 
+I love Liminal Space.
+
+Okay, I like: 
 
 - Machine Learning
 - Physics
