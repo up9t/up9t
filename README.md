@@ -22,6 +22,6 @@ Hey! Wanna play some games? Check out some games that I have made long time ago.
 
 | Name | Use | Source Code |
 | --- | --- | --- |
-| Base Converter | [Web](https://up9t.github.io/base-converter/) | [Github](https://github.com/up9t/base-converter) |
-| Blinker | — | [GitHub](https://github.com/up9t/blinker) |
+| **Base Converter** | [Web](https://up9t.github.io/base-converter/) | [Github](https://github.com/up9t/base-converter) |
+| **Blinker** | — | [GitHub](https://github.com/up9t/blinker) |
  
