@@ -1,8 +1,8 @@
 # Hi, there! 
 
-I'm currently focusing on Kotlin, and creative stuffs such as Blender.
+I'm currently focusing on **Kotlin**, and creative stuffs such as **Blender**.
 
-More about me? I love Liminal Space.
+More about me? I love **Liminal Space**.
 
 ## Games 🕹️
 
