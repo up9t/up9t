@@ -1,19 +1,12 @@
 # Hi, there! 
 
-I love Liminal Space.
+I'm currently focusing on Kotlin, and creative stuffs such as Blender.
 
-Okay, I like: 
-
-- Machine Learning
-- Physics
-- Backend Stuff, and
-- 🖌️ Drawing
-
-Well, it's not like I'm good at any of those, it just means I like it, and I try to learn those things.
+More about me? I love Liminal Space.
 
 ## Games 🕹️
 
-Hey! Wanna play some games? Check out some games that I have made (long time ago, and I have lost motivation to develop them lol! just left it as is for now).
+Hey! Wanna play some games? Check out some games that I have made long time ago.
 
 | Game                   | Play                                                       | Source Code                                                  |
 | ---------------------- | ---------------------------------------------------------- | ------------------------------------------------------------ |
