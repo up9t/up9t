@@ -16,7 +16,6 @@ Hey! Wanna play some games? Check out some games that I have made long time ago.
 | **Sliding Puzzle**  | [Play](https://up9t.github.io/game-sliding-puzzle/)  | [GitHub](https://github.com/up9t/game-sliding-puzzle)  |
 | **Fruit Collector** | [Play](https://up9t.github.io/game-fruit-collector/) | [GitHub](https://github.com/up9t/game-fruit-collector) |
 | **Tic Tac Toe**     | [Play](https://up9t.github.io/game-tic-tac-toe/)     | [GitHub](https://github.com/up9t/game-tic-tac-toe)     |
-| **Tetris**          | [Play](https://up9t.github.io/game-tetris/)          | [GitHub](https://github.com/up9t/game-tetris)          |
 
 ## Software/Tools
 
